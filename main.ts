@@ -2,9 +2,10 @@
 // Session: 4397508c-4fb9-4ae5-993f-3ad221b51094
 //
 // The entry itself is the list of quote posts in POSTS.json at the root
-// of this repository: seven posts from @jackqwe88800 on X, each one a
-// quote of a different @makefunai post, each carrying the word make.fun
-// and my play code for this bounty. The house reads the posts on X
+// of this repository: seven posts from @jackqwe88800 on X, all posted on
+// 26 November 2026, each one a quote of a different @makefunai post and
+// each carrying the word make.fun and my play code for this bounty
+// (makefun-scale-garnet-ginger). The house reads the posts on X
 // itself; all this program has to do is hand the list over, so it
 // copies POSTS.json into the output directory, byte for byte, after a
 // plain shape check so a broken file fails loudly here instead of at
