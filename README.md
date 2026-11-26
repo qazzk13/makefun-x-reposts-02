@@ -1,6 +1,10 @@
 # makefun-x-reposts-02
 
-My entry for make.fun's X reposts bounty. On 26 November 2026 I quoted
+[![make.fun bounty](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/qazzk13/makefun-x-reposts-02/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/qazzk13/makefun-x-reposts-02/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+
+My entry for [make.fun's X reposts bounty](https://make.fun/bounty/makefun-x-reposts-02). On 26 November 2026 I quoted
 seven of @makefunai's posts from my X account, @jackqwe88800 — one quote
 per post, each written for the post it answers, each carrying the word
 make.fun and my play code for the bounty (makefun-scale-garnet-ginger).
